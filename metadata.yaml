@@ -1,5 +1,8 @@
 _repo: Westy-Martin-in-the-Yellowstone_61114
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61114-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61114#Westy-Martin-in-the-Yellowstone
 gutenberg_issued: '2020-01-05'
 gutenberg_type: Text
 identifiers:
